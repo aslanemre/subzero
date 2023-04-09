@@ -1,4 +1,4 @@
-# SubZero
+# SUBZERO 
 
 ![subzero](https://github.com/aslanemre/subzero/blob/main/subzero.jpg?raw=true)
 
